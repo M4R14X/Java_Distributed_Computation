@@ -36,7 +36,7 @@ The worker collects results from all slaves and merges them into a single matrix
 **Client Notification:**  
 The server sends the final result back to the client, which displays it.
 
-[alt text](images/sequence.png)
+![sequence](https://github.com/user-attachments/assets/ec43290b-4fb9-4d15-96f6-3520306d7206)
 
 The sequence diagram shows the step-by-step flow of tasks and results between the client, server, and slaves.
 The client sends the matrices(A.txt, B.txt) and the operation .jar, to the server.
