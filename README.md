@@ -67,3 +67,5 @@ The process is detailed in the points below:
 
 ➔ **Server → Client**  
 ◆ Sends the final result to Client.
+
+## 4. How to run
